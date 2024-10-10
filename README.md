@@ -19,8 +19,8 @@ Requirements
 
 Functional Requirements
 
-C++ compiler (e.g., g++) installed on your system.
-Ability to compile and run C++ programs from the command line.
+JDK installed on your system.
+Ability to compile and run Java programs from the command line.
 Non-Functional Requirements
 
 Basic understanding of Java programming.
